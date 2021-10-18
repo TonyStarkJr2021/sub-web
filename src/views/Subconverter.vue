@@ -422,11 +422,6 @@ export default {
           {
             label: "customized",
             options: [
-	      {
-                label: "Maying",
-                value:
-                  "https://cdn.jsdelivr.net/gh/SleepyHeeead/subconverter-config@master/remote-config/customized/maying.ini"
-              },
               {
                 label: "Ytoo",
                 value:
