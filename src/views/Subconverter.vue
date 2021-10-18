@@ -422,11 +422,6 @@ export default {
           {
             label: "customized",
             options: [
-              {
-                label: "TonyStarkJr2012",
-                value:
-                  "https://cdn.jsdelivr.net/gh/TonyStarkJr2021/Rules@main/Clash/Rules.ini"
-              },
 	      {
                 label: "Maying",
                 value:
