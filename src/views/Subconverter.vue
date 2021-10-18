@@ -254,7 +254,7 @@ export default {
         },
         customBackend: {
           "localhost:25500 本地版": "http://localhost:25500/sub?",
-          "sub-beta.vercel.app": "https://sub-beta.vercel.app/sub?",
+          "sub.tonystarkjr2012.top": "https://sub.tonystarkjr2012.top/sub?",
           "subcon.dlj.tf(subconverter作者提供-稳定)":
             "https://subcon.dlj.tf/sub?",
           "api.dler.io(sub作者&lhie1提供-稳定)": "https://api.dler.io/sub?",
@@ -263,7 +263,7 @@ export default {
         },
         backendOptions: [
           { value: "http://localhost:25500/sub?" },
-          { value: "https://sub-beta.now.sh/sub?" },
+          { value: "https://sub.tonystarkjr2012.top/sub?" },
           { value: "https://subcon.dlj.tf/sub?" },
           { value: "https://api.dler.io/sub?" },
           { value: "https://api.wcc.best/sub?" },
@@ -423,6 +423,11 @@ export default {
             label: "customized",
             options: [
               {
+                label: "TonyStarkJr2012",
+                value:
+                  "https://cdn.jsdelivr.net/gh/TonyStarkJr2021/Rules@main/Clash/Rules.ini"
+              },
+	      {
                 label: "Maying",
                 value:
                   "https://cdn.jsdelivr.net/gh/SleepyHeeead/subconverter-config@master/remote-config/customized/maying.ini"
