@@ -432,11 +432,6 @@ export default {
                 value:
                   "https://cdn.jsdelivr.net/gh/TonyStarkJr2021/subconverter-config@master/remote-config/customized/TonyStarkJr2012.ini"
               },
-	      {
-                label: "FlowerCloud",
-                value:
-                  "https://cdn.jsdelivr.net/gh/SleepyHeeead/subconverter-config@master/remote-config/customized/flowercloud.ini"
-              },
               {
                 label: "NyanCAT",
                 value:
